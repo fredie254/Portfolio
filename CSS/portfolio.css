@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*styling the body of the portfolio*/
 
 body {
@@ -70,4 +71,78 @@ table {
     text-indent: 17px;
     align-items: left;
     text-align: left;
+=======
+/*styling the body of the portfolio*/
+
+body {
+    background-size: 10px;
+}
+
+head {
+    text-decoration: lightseagreen;
+}
+
+
+/*styling the navigation bar of the portfolio*/
+
+.nav_bar {
+    text-align: justify;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.nav_bar ul li {
+    width: 70px;
+    margin: 10px;
+    padding: 5px;
+    text-align: left;
+    display: inline-flex;
+}
+
+.nav_bar ul li :hover {
+    border-radius: 5px;
+}
+
+.container {
+    text-align: justify;
+    background-attachment: scroll;
+    background-color: khaki;
+    border-radius: 10px;
+    background-origin: padding-box;
+    background-size: 70px;
+}
+
+img {
+    border-radius: 50px;
+    text-overflow: inherit;
+}
+
+table {
+    align-content: flex-end;
+}
+
+
+/*styling the footer of the portfolio*/
+
+.footer {
+    background-color: honeydew;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
+
+
+/*about page*/
+
+.story {
+    background-image: url("fredie.JPG");
+    font-style: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contacts {
+    text-indent: 17px;
+    align-items: left;
+    text-align: left;
+>>>>>>> 0263e627631cedfa9a41f8abe28fa9cb52c2bbd6
 }
